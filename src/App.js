@@ -21,10 +21,11 @@ function App() {
 
   return (
     <div className="App">
+      <h1>Amplify mola</h1>
       <ul>
         {todos.map(todo => (
           <li>
-            <input type="checkbox" value={todo.done} />
+            <input type="checkbox" checked={todo.done} />
             {`${todo.name} - ${todo.description}`}
           </li>
         ))}
