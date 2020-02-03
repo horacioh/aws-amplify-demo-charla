@@ -4,6 +4,12 @@
 
 Codigo y Slides de la charla presentada Online por Horacio Herrera.
 
+### Preguntas?
+
+si tienes alguna pregunta o alguna consulta, puedes hacerla en [las issues](https://github.com/horacioh/aws-amplify-demo-charla/issues) o en mi [AMA](https://hhg.link/ama)
+
+---
+
 - ver el directo: https://youtu.be/h1m293bRMvc
 - ver esta charla: https://youtu.be/h1m293bRMvc?t=8287
 - ver los slides: - [slides](/slides.pdf)
